@@ -1,0 +1,107 @@
+tm_club,ws_team,score,method
+1.FC Köln,FC Koln,1.0,override
+AC Milan,AC Milan,1.0,exact_norm
+AJ Auxerre,Auxerre,1.0,exact_norm
+Alavés,Deportivo Alaves,1.0,override
+Angers SCO,Angers,1.0,exact_norm
+Arsenal,Arsenal,1.0,exact_norm
+Aston Villa,Aston Villa,1.0,exact_norm
+Atalanta,Atalanta,1.0,exact_norm
+Athletic Club,Athletic Club,1.0,exact_norm
+Atlético,Atletico,1.0,override
+Augsburg,Augsburg,1.0,exact_norm
+Barcelona,Barcelona,1.0,exact_norm
+Bayern Munich,Bayern,1.0,override
+Bologna,Bologna,1.0,exact_norm
+Bournemouth,Bournemouth,1.0,exact_norm
+Brentford,Brentford,1.0,exact_norm
+Brighton,Brighton,1.0,exact_norm
+Burnley,Burnley,1.0,exact_norm
+CA Osasuna,Osasuna,1.0,override
+CD Leganés,Leganes,1.0,override
+Cagliari,Cagliari,1.0,exact_norm
+Celta de Vigo,Celta Vigo,1.0,override
+Chelsea,Chelsea,1.0,exact_norm
+Como,Como,1.0,exact_norm
+Cremonese,Cremonese,1.0,exact_norm
+Crystal Palace,Crystal Palace,1.0,exact_norm
+Dortmund,Borussia Dortmund,1.0,override
+Elche CF,Elche,1.0,exact_norm
+Espanyol,Espanyol,1.0,exact_norm
+Everton,Everton,1.0,exact_norm
+FC Empoli,Empoli,1.0,exact_norm
+FC Nantes,Nantes,1.0,exact_norm
+Fiorentina,Fiorentina,1.0,exact_norm
+Frankfurt,Eintracht Frankfurt,1.0,override
+Freiburg,Freiburg,1.0,exact_norm
+Fulham,Fulham,1.0,exact_norm
+Genoa,Genoa,1.0,exact_norm
+Getafe,Getafe,1.0,exact_norm
+Girona,Girona,1.0,exact_norm
+Hamburg,Hamburg,1.0,exact_norm
+Hellas Verona,Verona,1.0,override
+Hoffenheim,Hoffenheim,1.0,exact_norm
+Holstein Kiel,Holstein Kiel,1.0,exact_norm
+Inter,Inter,1.0,exact_norm
+Ipswich,Ipswich,1.0,exact_norm
+Juventus,Juventus,1.0,exact_norm
+Lazio,Lazio,1.0,exact_norm
+Le Havre AC,Le Havre,1.0,exact_norm
+Lecce,Lecce,1.0,exact_norm
+Leeds,Leeds,1.0,exact_norm
+Leicester,Leicester,1.0,exact_norm
+Leipzig,,0.5,fuzzy
+Lens,Lens,1.0,exact_norm
+Levante,Levante,1.0,exact_norm
+Leverkusen,Leverkusen,1.0,exact_norm
+Lille,Lille,1.0,exact_norm
+Liverpool,Liverpool,1.0,exact_norm
+Lyon,Lyon,1.0,exact_norm
+Mainz,Mainz,1.0,exact_norm
+Man City,Man City,1.0,exact_norm
+Man Utd,Man Utd,1.0,exact_norm
+Marseille,Marseille,1.0,exact_norm
+Monaco,Monaco,1.0,exact_norm
+Montpellier,Montpellier,1.0,exact_norm
+Monza,Monza,1.0,exact_norm
+Mönchengladbach,Borussia M.Gladbach,1.0,override
+Napoli,Napoli,1.0,exact_norm
+Newcastle,Newcastle,1.0,exact_norm
+Nice,Nice,1.0,exact_norm
+Nott'm Forest,Nottingham Forest,1.0,override
+PSG,PSG,1.0,exact_norm
+Paris FC,Paris FC,1.0,exact_norm
+Parma,Parma Calcio 1913,1.0,override
+Pisa,Pisa,1.0,exact_norm
+R. Strasbourg,Strasbourg,1.0,override
+RCD Mallorca,Mallorca,1.0,override
+Rayo Vallecano,Rayo Vallecano,1.0,exact_norm
+Real Betis,Real Betis,1.0,exact_norm
+Real Madrid,Real Madrid,1.0,exact_norm
+Real Oviedo,Real Oviedo,1.0,exact_norm
+Real Sociedad,Real Sociedad,1.0,exact_norm
+Roma,Roma,1.0,exact_norm
+Saint-Étienne,Saint-Etienne,1.0,exact_norm
+Sassuolo,Sassuolo,1.0,exact_norm
+Sevilla FC,Sevilla,1.0,exact_norm
+Southampton,Southampton,1.0,exact_norm
+St. Pauli,St. Pauli,1.0,exact_norm
+Stade Brestois,Brest,1.0,override
+Stade Reims,Reims,1.0,override
+Stade Rennais,Rennes,1.0,override
+Stuttgart,Stuttgart,1.0,override
+Sunderland,Sunderland,1.0,exact_norm
+Torino,Torino,1.0,exact_norm
+Tottenham,Tottenham,1.0,exact_norm
+Toulouse,Toulouse,1.0,exact_norm
+UD Las Palmas,Las Palmas,1.0,override
+Udinese,Udinese,1.0,exact_norm
+Union Berlin,Union Berlin,1.0,exact_norm
+Valencia,Valencia,1.0,exact_norm
+Venezia,Venezia,1.0,exact_norm
+VfL Bochum,Bochum,1.0,override
+Villarreal,Villarreal,1.0,exact_norm
+Werder Bremen,Werder Bremen,1.0,exact_norm
+West Ham,West Ham,1.0,exact_norm
+Wolfsburg,Wolfsburg,1.0,exact_norm
+Wolves,Wolves,1.0,exact_norm

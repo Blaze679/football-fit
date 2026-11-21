@@ -1,0 +1,13 @@
+- **[2026-11-19] Data Collection & Raw QC Complete:** Verified all 3,504 WhoScored matches (2024-25 and 2025-26 across top 5 leagues) and Transfermarkt raw tables. Confirmed 4 abnormal-length matches are real events; confirmed GER-Bundesliga 2024-25 match `1834391` (22 events, 10,511 B) is an upstream WhoScored limitation and marked it to be flagged rather than re-scraped.
+
+- **[2026-11-19] Minutes & Match QC Complete (`build_minutes.py` v2):** Processed all 3,504 matches into `player_match_minutes.parquet` (108,624 rows), `match_qc.parquet` (3,504 rows), and `player_season_minutes.parquet` (5,693 rows). Verified card types, max season minutes share (1.0), and 12 flagged matches (9 long matches, 2 real abandonments, 1 upstream incomplete match `1834391`).
+
+- **[2026-11-19] Summer 2025 Transfer Cohort Filtered (`build_cohort.py`):** Filtered 705 raw top-5-to-top-5 summer 2025 moves by excluding probable loans out (225), loan returns (222), and U21 players aged <= 21 (108), yielding 279 senior permanent candidates (243 outfield, 36 GK) saved to `data/processed/cohort_summer2025_candidates.parquet`.
+
+- **[2026-11-19] Player & Club Entity Matching Complete (`match_players.py`):** Matched 274/276 unique senior candidates (240/240 outfield, 34/36 GK; remaining 2 GKs had 0 WhoScored minutes) into `data/processed/cohort_matched.parquet`. Flagged 45 option-to-buy players who already played for their destination club in 2024-25.
+
+- **[2026-11-20] Transfer Outcome Labels Computed (`build_labels.py`):** Calibrated empirical-Bayes G+A/90 shrinkage and age slopes on 873 outfield stayers, yielding 195 eligible summer-2025 transfers (170 outfield: 67 Attack, 59 Defender, 44 Midfield; 25 GK) in `data/processed/transfer_labels.parquet`. Cleared the >=60 small-sample rule.
+
+- **[2026-11-20] Style Features & Master Database Complete (`build_features.py`):** Built 22 tactical features for 192 club-seasons (`club_style_features.parquet`), 30 per-90/ratio style features for 5,693 player-seasons (`player_style_features.parquet`), and the leak-free `master_transfer_dataset.parquet` (133 complete eligible outfield transfers with both 2024-25 player and destination-club profiles; 37 transfers to newly promoted 2025-26 clubs isolated).
+
+- **[2026-11-20] Style Space, Fit Scorer v3 & Backtest Complete (`fit_v3.py`):** Built 2024-25 PCA/UMAP/K-Means style space (1,736 outfield players >=450 min90) and possession-adjusted role-peer + system fit scorer (`compute_fit` v3). Verified positive Spearman correlations across Attack, Midfield, and Defender and ROC-AUC outperforming all baselines (`0.597` Lenient, `0.572` Base, `0.602` on >=15M EUR transfers); saved GUI inference artifacts to `data/processed/`.

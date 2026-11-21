@@ -1,0 +1,277 @@
+tm_player_id,ws_player_id,player_name,age_years,position,sub_position,tm_from_club,tm_to_club,ws_to_club,transfer_date,transfer_fee,elig_status,min90_2425,goals_2425,assists_2425,ga_p90_2425,club_matches_after,min90_dest_2526,goals_dest_2526,assists_dest_2526,MS,actual_ga_p90,expected_ga_p90,residual_R,Y_score,label_lenient,label_base,label_strict
+27992,20874,Luka Modrić,39,Midfield,Central Midfield,Real Madrid,AC Milan,AC Milan,2025-07-14,0.0,eligible,1831.8,2,6,0.393,38,2801.0,2,3,0.819,0.161,0.276,-0.115,-0.822,Ambiguous,Failure,Failure
+35047,25191,Axel Witsel,36,Midfield,Defensive Midfield,Atlético,Girona,Girona,2025-08-12,0.0,eligible,874.3,0,1,0.103,38,2511.0,1,2,0.734,0.108,0.133,-0.026,-0.184,Success,Ambiguous,Ambiguous
+40433,25244,Alexis Sánchez,36,Attack,Second Striker,Udinese,Sevilla FC,Sevilla,2025-09-01,0.0,excl_low_baseline_min(<450),447.8,0,0,0.0,35,1342.6,4,2,0.426,0.402,,,,,,
+45672,66424,Kevin Trapp,35,Goalkeeper,Goalkeeper,Frankfurt,Paris FC,Paris FC,2025-08-19,1000000.0,eligible,2292.6,0,0,0.0,33,1980.0,0,0,0.667,0.0,,,,Success,Success,Success
+48015,64846,Lukas Hradecky,35,Goalkeeper,Goalkeeper,Leverkusen,Monaco,Monaco,2025-08-08,3000000.0,eligible,2610.0,0,0,0.0,34,1430.4,0,0,0.467,0.0,,,,Success,Ambiguous,Ambiguous
+57500,25931,César Azpilicueta,36,Defender,Centre-Back,Atlético,Sevilla FC,Sevilla,2025-08-29,0.0,eligible,875.5,1,0,0.103,36,1197.7,0,1,0.37,0.075,0.116,-0.041,-0.366,Ambiguous,Ambiguous,Failure
+58995,115565,Anthony Jung,33,Defender,Centre-Back,Werder Bremen,Freiburg,Freiburg,2025-07-01,0.0,eligible,1895.7,0,0,0.0,34,551.4,0,0,0.18,0.0,0.058,-0.058,-0.526,Ambiguous,Failure,Failure
+74683,38128,Nemanja Matić,37,Midfield,Defensive Midfield,Lyon,Sassuolo,Sassuolo,2025-08-26,0.0,eligible,1957.6,0,1,0.046,37,2631.2,1,1,0.79,0.068,0.068,0.0,0.0,Success,Success,Ambiguous
+74960,46092,Martin Dúbravka,36,Goalkeeper,Goalkeeper,Newcastle,Burnley,Burnley,2025-08-07,,eligible,900.0,0,0,0.0,38,3150.0,0,0,0.921,0.0,,,,Success,Success,Success
+76467,75919,Kiko Femenía,34,Defender,Right-Back,Villarreal,Getafe,Getafe,2025-07-01,0.0,eligible,2214.4,0,1,0.041,38,1956.9,1,1,0.572,0.092,0.077,0.015,0.133,Success,Success,Ambiguous
+81173,104885,Janis Blaswich,34,Goalkeeper,Goalkeeper,Leipzig,Leverkusen,Leverkusen,2025-08-11,2000000.0,excl_low_baseline_min(<450),0.0,0,0,,34,935.6,0,0,0.306,0.0,,,,,,
+85528,81109,Marco Silvestri,34,Goalkeeper,Goalkeeper,FC Empoli,Cremonese,Cremonese,2025-08-13,0.0,eligible,450.0,0,0,0.0,38,360.0,0,0,0.105,0.0,,,,Failure,Failure,Failure
+88755,73084,Kevin De Bruyne,34,Midfield,Attacking Midfield,Man City,Napoli,Napoli,2025-07-01,0.0,eligible,1694.8,4,7,0.584,38,1144.8,5,2,0.335,0.55,0.408,0.142,1.016,Ambiguous,Ambiguous,Failure
+91970,44868,Juan Cuadrado,37,Midfield,Right Midfield,Atalanta,Pisa,Pisa,2025-08-06,0.0,eligible,857.1,0,2,0.21,38,537.0,1,0,0.157,0.168,0.175,-0.008,-0.056,Ambiguous,Failure,Failure
+93936,79840,Kike García,35,Attack,Centre-Forward,Alavés,Espanyol,Espanyol,2025-07-01,0.0,eligible,2485.1,13,0,0.471,38,1745.5,8,1,0.51,0.464,0.51,-0.046,-0.21,Success,Ambiguous,Ambiguous
+94192,115989,Patrick Drewes,32,Goalkeeper,Goalkeeper,VfL Bochum,Dortmund,Borussia Dortmund,2025-07-01,200000.0,eligible,1800.9,0,0,0.0,34,0.0,0,0,0.0,,,,,Failure,Failure,Failure
+94308,259393,Marko Dmitrovic,33,Goalkeeper,Goalkeeper,CD Leganés,Espanyol,Espanyol,2025-07-01,0.0,eligible,2880.0,0,0,0.0,38,3330.0,0,0,0.974,0.0,,,,Success,Success,Success
+95424,69778,Kyle Walker,35,Defender,Right-Back,Man City,Burnley,Burnley,2025-07-05,5000000.0,eligible,1648.6,0,0,0.0,38,3088.3,0,2,0.903,0.058,0.064,-0.005,-0.047,Success,Ambiguous,Ambiguous
+96254,106277,Pietro Terracciano,35,Goalkeeper,Goalkeeper,Fiorentina,AC Milan,AC Milan,2025-07-18,0.0,excl_low_baseline_min(<450),270.0,0,0,0.0,38,128.4,0,0,0.038,0.0,,,,,,
+111455,89401,Granit Xhaka,32,Midfield,Defensive Midfield,Leverkusen,Sunderland,Sunderland,2025-07-30,15000000.0,eligible,2880.2,2,7,0.281,38,2900.8,1,6,0.848,0.217,0.242,-0.025,-0.179,Success,Ambiguous,Ambiguous
+116088,361419,Marius Bülter,32,Attack,Left Winger,Hoffenheim,1.FC Köln,FC Koln,2025-07-31,1000000.0,eligible,1698.3,7,2,0.477,34,1626.2,5,4,0.531,0.498,0.516,-0.018,-0.081,Success,Ambiguous,Ambiguous
+116648,,Marcus Bettinelli,33,Goalkeeper,Goalkeeper,Chelsea,Man City,Man City,2025-06-10,2400000.0,excl_unmatched_ws,0.0,0,0,,38,0.0,0,0,0.0,,,,,,,
+123682,134115,Callum Wilson,33,Attack,Centre-Forward,Newcastle,West Ham,West Ham,2025-08-02,0.0,excl_low_baseline_min(<450),410.3,0,0,0.0,38,1303.7,7,1,0.381,0.552,,,,,,
+124555,93935,Cristiano Biraghi,32,Defender,Left-Back,Fiorentina,Torino,Torino,2025-07-01,260000.0,excl_already_at_dest_2425,1596.9,1,0,0.056,38,543.4,0,0,0.159,0.0,,,,,,
+124884,83824,Marco Bizot,34,Goalkeeper,Goalkeeper,Stade Brestois,Aston Villa,Aston Villa,2025-07-15,500000.0,eligible,2880.0,0,0,0.0,38,586.1,0,0,0.171,0.0,,,,Ambiguous,Failure,Failure
+125714,115131,Mark Flekken,32,Goalkeeper,Goalkeeper,Brentford,Leverkusen,Leverkusen,2025-07-01,11000000.0,eligible,3271.7,0,2,0.055,34,2124.4,0,0,0.694,0.0,,,,Success,Success,Success
+126737,83080,Juanmi,32,Attack,Left Winger,Real Betis,Getafe,Getafe,2025-07-01,1200000.0,excl_already_at_dest_2425,969.2,0,0,0.0,38,204.6,1,0,0.06,0.44,,,,,,
+127181,89928,Benjamin Lecomte,34,Goalkeeper,Goalkeeper,Montpellier,Fulham,Fulham,2025-07-26,500000.0,eligible,2671.6,0,0,0.0,38,0.0,0,0,0.0,,,,,Failure,Failure,Failure
+128969,81523,Mathew Ryan,33,Goalkeeper,Goalkeeper,Lens,Levante,Levante,2025-08-26,0.0,eligible,1260.0,0,0,0.0,36,3240.0,0,0,1.0,0.0,,,,Success,Success,Success
+148367,101856,Christian Nørgaard,31,Midfield,Defensive Midfield,Brentford,Arsenal,Arsenal,2025-07-10,11600000.0,eligible,2784.2,5,4,0.291,38,129.6,0,0,0.038,0.0,0.253,,,Failure,Failure,Failure
+157635,132943,Yussuf Poulsen,31,Attack,Centre-Forward,Leipzig,Hamburg,Hamburg,2025-07-13,1000000.0,excl_low_baseline_min(<450),433.9,2,0,0.415,34,391.4,1,0,0.128,0.23,,,,,,
+157672,111372,Vladimír Coufal,32,Defender,Right-Back,West Ham,Hoffenheim,Hoffenheim,2025-08-05,0.0,eligible,1078.7,0,0,0.0,34,2990.1,1,8,0.977,0.271,0.073,0.198,1.783,Success,Success,Success
+165007,106525,Denis Suárez,31,Midfield,Attacking Midfield,Villarreal,Alavés,Deportivo Alaves,2025-08-29,0.0,eligible,644.8,1,1,0.279,36,1422.1,1,2,0.439,0.19,0.227,-0.037,-0.265,Ambiguous,Ambiguous,Failure
+167727,112272,Andrea Belotti,31,Attack,Centre-Forward,Como,Cagliari,Cagliari,2025-09-01,0.0,eligible,611.5,2,0,0.294,36,231.0,2,0,0.071,0.779,0.472,,,Failure,Failure,Failure
+167799,101859,Pierre-Emile Højbjerg,29,Midfield,Defensive Midfield,Tottenham,Marseille,Marseille,2025-07-01,13500000.0,excl_already_at_dest_2425,2657.2,2,4,0.203,34,2697.1,4,5,0.881,0.3,,,,,,
+168157,124106,Leander Dendoncker,30,Midfield,Defensive Midfield,Aston Villa,Real Oviedo,Real Oviedo,2025-08-19,0.0,excl_low_baseline_min(<450),0.0,0,0,,37,1322.1,1,0,0.397,0.068,,,,,,
+170961,101911,Thomas Delaine,33,Defender,Left-Back,R. Strasbourg,Le Havre AC,Le Havre,2025-07-13,0.0,excl_low_baseline_min(<450),19.6,0,0,0.0,34,203.3,0,0,0.066,0.0,,,,,,
+175722,117973,Eric Dier,31,Defender,Centre-Back,Bayern Munich,Monaco,Monaco,2025-07-01,0.0,eligible,1473.5,2,1,0.183,34,691.7,1,0,0.226,0.13,0.148,-0.018,-0.16,Ambiguous,Failure,Failure
+181778,101955,Emerson,31,Defender,Left-Back,West Ham,Marseille,Marseille,2025-09-01,700000.0,eligible,2063.3,2,1,0.131,31,2116.1,0,3,0.758,0.128,0.125,0.002,0.02,Success,Success,Ambiguous
+182913,116609,Adrien Rabiot,30,Midfield,Central Midfield,Marseille,AC Milan,AC Milan,2025-09-01,7000000.0,eligible,2488.9,9,4,0.47,36,2549.6,6,4,0.787,0.353,0.378,-0.025,-0.181,Success,Ambiguous,Ambiguous
+184573,100008,Victor Lindelöf,31,Defender,Centre-Back,Man Utd,Aston Villa,Aston Villa,2025-09-01,0.0,eligible,738.9,0,0,0.0,35,967.0,0,1,0.307,0.093,0.082,0.011,0.097,Ambiguous,Ambiguous,Failure
+184892,99143,Florian Thauvin,32,Attack,Right Winger,Udinese,Lens,Lens,2025-08-08,6000000.0,eligible,1905.9,8,3,0.519,34,2368.7,11,6,0.774,0.646,0.539,0.106,0.488,Success,Success,Success
+188888,137227,Sheraldo Becker,30,Attack,Left Winger,Real Sociedad,CA Osasuna,Osasuna,2025-09-01,0.0,eligible,1002.6,2,1,0.269,35,186.3,0,0,0.059,0.0,0.43,,,Failure,Failure,Failure
+192279,113880,Kepa Arrizabalaga,30,Goalkeeper,Goalkeeper,Chelsea,Arsenal,Arsenal,2025-07-01,5800000.0,eligible,2790.0,0,0,0.0,38,90.0,0,0,0.026,0.0,,,,Failure,Failure,Failure
+193098,135374,Álex Moreno,32,Defender,Left-Back,Aston Villa,Girona,Girona,2025-08-22,0.0,eligible,937.4,0,1,0.096,37,2561.7,0,3,0.769,0.105,0.111,-0.005,-0.046,Success,Ambiguous,Ambiguous
+196357,134946,Jonathan Tah,29,Defender,Centre-Back,Leverkusen,Bayern Munich,Bayern,2025-06-09,2000000.0,eligible,2970.0,3,0,0.091,34,2023.6,2,1,0.661,0.133,0.1,0.033,0.298,Success,Success,Success
+196813,280191,Michael Zetterer,30,Goalkeeper,Goalkeeper,Werder Bremen,Frankfurt,Eintracht Frankfurt,2025-08-20,6000000.0,eligible,3060.0,0,0,0.0,34,1975.7,0,0,0.646,0.0,,,,Success,Success,Success
+197473,240989,Alberto Grassi,30,Midfield,Defensive Midfield,FC Empoli,Cremonese,Cremonese,2025-07-19,1000000.0,eligible,2164.1,1,0,0.042,38,1745.8,0,0,0.51,0.0,0.091,-0.091,-0.65,Ambiguous,Failure,Failure
+197838,106981,Jamie Vardy,38,Attack,Centre-Forward,Leicester,Cremonese,Cremonese,2025-09-01,0.0,eligible,2778.9,9,4,0.421,36,2097.8,7,2,0.647,0.386,0.478,-0.092,-0.421,Ambiguous,Ambiguous,Failure
+198008,299460,André Silva,29,Attack,Centre-Forward,Leipzig,Elche CF,Elche,2025-08-18,1000000.0,eligible,521.5,2,2,0.69,38,1843.4,10,0,0.539,0.488,0.595,-0.106,-0.488,Ambiguous,Ambiguous,Failure
+199976,95504,Marco Sportiello,33,Goalkeeper,Goalkeeper,AC Milan,Atalanta,Atalanta,2025-07-18,800000.0,excl_low_baseline_min(<450),128.1,0,0,0.0,38,90.0,0,0,0.026,0.0,,,,,,
+203348,104368,Chancel Mbemba,31,Defender,Centre-Back,Marseille,Lille,Lille,2025-09-01,0.0,excl_low_baseline_min(<450),0.0,0,0,,31,966.2,0,0,0.346,0.0,,,,,,
+215810,243164,Tom King,30,Goalkeeper,Goalkeeper,Wolves,Everton,Everton,2025-08-15,,excl_low_baseline_min(<450),4.0,0,0,0.0,38,0.0,0,0,0.0,,,,,,,
+217115,119822,Neal Maupay,28,Attack,Centre-Forward,Everton,Marseille,Marseille,2025-07-01,4000000.0,excl_already_at_dest_2425,1036.9,4,4,0.694,34,1.6,0,0,0.001,0.0,,,,,,
+221316,144511,Lucas Vázquez,34,Defender,Right-Back,Real Madrid,Leverkusen,Leverkusen,2025-08-26,0.0,eligible,2178.6,1,5,0.248,33,498.3,1,2,0.168,0.542,0.192,0.349,3.154,Ambiguous,Failure,Failure
+225122,247995,Gonçalo Guedes,28,Attack,Left Winger,Wolves,Real Sociedad,Real Sociedad,2025-08-04,4000000.0,eligible,1046.3,2,4,0.516,38,1803.2,8,4,0.527,0.599,0.536,0.062,0.287,Success,Success,Ambiguous
+230784,238940,Thomas Partey,32,Midfield,Defensive Midfield,Arsenal,Villarreal,Villarreal,2025-08-07,0.0,eligible,2778.7,4,2,0.194,38,970.6,0,0,0.284,0.0,0.18,-0.18,-1.288,Failure,Failure,Failure
+234523,135057,Antonio Sanabria,29,Attack,Centre-Forward,Torino,Cremonese,Cremonese,2025-08-21,2500000.0,eligible,1320.3,2,1,0.204,38,960.9,1,1,0.281,0.187,0.376,-0.189,-0.865,Ambiguous,Failure,Failure
+237662,143695,Breel Embolo,28,Attack,Centre-Forward,Monaco,Stade Rennais,Rennes,2025-09-01,13000000.0,eligible,1815.5,6,4,0.496,31,1864.5,8,3,0.668,0.531,0.52,0.011,0.051,Success,Success,Ambiguous
+238993,123923,Simone Scuffet,29,Goalkeeper,Goalkeeper,Cagliari,Pisa,Pisa,2025-07-23,900000.0,eligible,1260.0,0,0,0.0,38,630.0,0,0,0.184,0.0,,,,Ambiguous,Failure,Failure
+240692,361812,Reinildo Mandava,31,Defender,Left-Back,Atlético,Sunderland,Sunderland,2025-07-08,0.0,eligible,954.2,0,0,0.0,38,1965.5,0,1,0.575,0.046,0.076,-0.03,-0.272,Ambiguous,Ambiguous,Failure
+242359,126278,Juan Musso,31,Goalkeeper,Goalkeeper,Atalanta,Atlético,Atletico,2025-06-10,3000000.0,excl_already_at_dest_2425,270.0,0,0,0.0,38,720.0,0,0,0.211,0.0,,,,,,
+263236,330816,Kevin Danso,26,Defender,Centre-Back,Lens,Tottenham,Tottenham,2025-07-01,25000000.0,excl_already_at_dest_2425,1921.7,0,0,0.0,38,1521.9,0,0,0.445,0.0,,,,,,
+273132,141726,Robin Gosens,30,Defender,Left-Back,Union Berlin,Fiorentina,Fiorentina,2025-07-01,7000000.0,excl_already_at_dest_2425,2586.4,5,5,0.348,38,1842.5,3,1,0.539,0.195,,,,,,
+274862,202185,Moses Simon,29,Attack,Left Winger,FC Nantes,Paris FC,Paris FC,2025-07-01,7000000.0,eligible,2561.7,8,10,0.632,34,1928.7,3,3,0.63,0.28,0.609,-0.329,-1.508,Failure,Failure,Failure
+276896,234376,Samuel Gigot,31,Defender,Centre-Back,Marseille,Lazio,Lazio,2025-07-01,4300000.0,excl_already_at_dest_2425,695.3,2,0,0.259,38,0.0,0,0,0.0,,,,,,,
+278359,259042,Borja Iglesias,32,Attack,Centre-Forward,Real Betis,Celta de Vigo,Celta Vigo,2025-08-12,2000000.0,excl_already_at_dest_2425,1908.2,11,3,0.66,38,1883.7,14,2,0.551,0.764,,,,,,
+282421,276819,Javi Muñoz,30,Midfield,Central Midfield,UD Las Palmas,Getafe,Getafe,2025-07-04,0.0,eligible,2585.1,1,3,0.139,38,579.9,0,0,0.17,0.0,0.151,-0.151,-1.081,Failure,Failure,Failure
+283994,234364,Ludovic Ajorque,31,Attack,Centre-Forward,Mainz,Stade Brestois,Brest,2025-07-01,2000000.0,excl_already_at_dest_2425,2448.2,13,2,0.551,34,2807.7,8,9,0.918,0.545,,,,,,
+284854,303268,Carles Aleñá,27,Midfield,Central Midfield,Getafe,Alavés,Deportivo Alaves,2025-07-24,1000000.0,excl_already_at_dest_2425,1515.5,0,2,0.119,38,1937.9,0,4,0.567,0.186,,,,,,
+285323,236558,Baptiste Santamaria,30,Midfield,Defensive Midfield,Stade Rennais,Valencia,Valencia,2025-08-07,2000000.0,eligible,1411.4,0,1,0.064,38,799.5,1,1,0.234,0.225,0.122,0.103,0.734,Ambiguous,Failure,Failure
+286384,243814,Eric Bailly,31,Defender,Centre-Back,Villarreal,Real Oviedo,Real Oviedo,2025-08-18,0.0,eligible,621.6,0,0,0.0,37,1231.9,1,0,0.37,0.073,0.086,-0.013,-0.119,Ambiguous,Ambiguous,Ambiguous
+293169,298792,Josip Brekalo,27,Attack,Left Winger,Fiorentina,Real Oviedo,Real Oviedo,2025-08-21,0.0,excl_low_baseline_min(<450),0.0,0,0,,37,495.5,0,0,0.149,0.0,,,,,,
+293281,307202,Jacob Bruun Larsen,26,Attack,Left Winger,Stuttgart,Burnley,Burnley,2025-07-11,4000000.0,eligible,853.1,3,2,0.527,38,1054.0,0,1,0.308,0.085,0.54,-0.454,-2.084,Failure,Failure,Failure
+297070,289018,Hamari Traoré,33,Defender,Right-Back,Real Sociedad,Paris FC,Paris FC,2025-09-01,4500000.0,eligible,672.8,0,1,0.134,31,1135.3,0,1,0.407,0.079,0.123,-0.044,-0.394,Ambiguous,Ambiguous,Failure
+297583,366868,Woo-yeong Jeong,25,Midfield,Attacking Midfield,Stuttgart,Union Berlin,Union Berlin,2025-07-01,4000000.0,excl_already_at_dest_2425,1245.4,3,2,0.361,34,1212.8,4,1,0.396,0.371,,,,,,
+301238,319696,Michele Di Gregorio,27,Goalkeeper,Goalkeeper,Monza,Juventus,Juventus,2025-07-01,14300000.0,excl_already_at_dest_2425,2970.0,0,0,0.0,38,2656.9,0,0,0.777,0.0,,,,,,
+303657,296723,Ionuț Radu,28,Goalkeeper,Goalkeeper,Venezia,Celta de Vigo,Celta Vigo,2025-07-01,0.0,eligible,1350.0,0,0,0.0,38,3420.0,0,0,1.0,0.0,,,,Success,Success,Success
+305947,289252,Albert Gudmundsson,28,Attack,Second Striker,Genoa,Fiorentina,Fiorentina,2025-07-01,16800000.0,excl_already_at_dest_2425,1258.9,6,1,0.5,38,2212.5,5,4,0.647,0.366,,,,,,
+306024,141469,Dominic Calvert-Lewin,28,Attack,Centre-Forward,Everton,Leeds,Leeds,2025-08-15,0.0,eligible,1597.2,3,1,0.225,38,2684.3,14,1,0.785,0.503,0.37,0.133,0.61,Success,Success,Success
+314288,347340,Lukas Nmecha,26,Attack,Centre-Forward,Wolfsburg,Leeds,Leeds,2025-07-01,0.0,eligible,511.8,3,0,0.528,38,1139.2,6,1,0.333,0.553,0.542,0.011,0.049,Ambiguous,Ambiguous,Failure
+314353,318871,Trent Alexander-Arnold,26,Defender,Right-Back,Liverpool,Real Madrid,Real Madrid,2025-06-01,10000000.0,eligible,2328.2,3,6,0.348,38,1172.2,0,4,0.343,0.307,0.247,0.061,0.547,Ambiguous,Ambiguous,Failure
+315858,262515,Gianluigi Donnarumma,26,Goalkeeper,Goalkeeper,PSG,Man City,Man City,2025-09-01,30000000.0,eligible,2088.4,0,0,0.0,35,3060.0,0,0,0.971,0.0,,,,Success,Success,Success
+316125,299272,Ben Chilwell,28,Defender,Left-Back,Chelsea,R. Strasbourg,Strasbourg,2025-09-01,0.0,excl_low_baseline_min(<450),286.5,1,0,0.314,31,1580.2,0,2,0.566,0.114,,,,,,
+316884,383094,Dominik Greif,28,Goalkeeper,Goalkeeper,RCD Mallorca,Lyon,Lyon,2025-08-18,4000000.0,eligible,2790.0,0,0,0.0,33,2610.0,0,1,0.879,0.034,,,,Success,Success,Success
+318523,331466,Romain Perraud,27,Defender,Left-Back,Real Betis,Lille,Lille,2025-08-08,3000000.0,eligible,2011.6,2,2,0.179,34,2202.0,3,4,0.72,0.286,0.148,0.138,1.243,Success,Success,Success
+324690,322094,Jonathan Ikoné,27,Attack,Right Winger,Fiorentina,Paris FC,Paris FC,2025-09-01,2000000.0,eligible,914.1,2,0,0.197,31,1100.6,3,1,0.394,0.327,0.401,-0.074,-0.34,Ambiguous,Ambiguous,Failure
+324795,349960,Mahdi Camara,27,Midfield,Central Midfield,Stade Brestois,Stade Rennais,Rennes,2025-08-13,8000000.0,eligible,2613.3,5,3,0.276,34,2633.8,3,1,0.861,0.137,0.259,-0.122,-0.87,Ambiguous,Failure,Failure
+332889,231144,Valentin Rongier,30,Midfield,Central Midfield,Marseille,Stade Rennais,Rennes,2025-07-21,5500000.0,eligible,1557.6,3,1,0.231,34,2743.8,2,5,0.897,0.23,0.215,0.015,0.107,Success,Success,Ambiguous
+333647,363037,Jonathan Burkardt,24,Attack,Centre-Forward,Mainz,Frankfurt,Eintracht Frankfurt,2025-07-04,21000000.0,eligible,2064.6,18,2,0.872,34,1307.9,13,1,0.427,0.963,0.746,0.217,0.995,Success,Ambiguous,Ambiguous
+335993,486776,Philipp Treu,24,Defender,Right-Back,St. Pauli,Freiburg,Freiburg,2025-07-01,5500000.0,eligible,2869.1,0,2,0.063,34,2176.2,1,2,0.711,0.124,0.08,0.044,0.399,Success,Success,Success
+336960,298515,Giuseppe Pezzella,27,Defender,Left-Back,FC Empoli,Cremonese,Cremonese,2025-07-25,2000000.0,eligible,2848.3,0,3,0.095,38,2563.2,0,1,0.749,0.035,0.102,-0.067,-0.601,Ambiguous,Failure,Failure
+338629,364235,Sebastiaan Bornauw,26,Defender,Centre-Back,Wolfsburg,Leeds,Leeds,2025-07-01,6000000.0,eligible,806.0,2,1,0.335,38,432.7,0,0,0.127,0.0,0.183,,,Failure,Failure,Failure
+340177,328433,Thibault De Smet,27,Defender,Left-Back,Stade Reims,Paris FC,Paris FC,2025-07-01,1500000.0,excl_low_baseline_min(<450),202.8,0,0,0.0,34,1131.3,0,1,0.37,0.08,,,,,,
+340918,322176,Caoimhín Kelleher,26,Goalkeeper,Goalkeeper,Liverpool,Brentford,Brentford,2025-07-01,14800000.0,eligible,900.0,0,0,0.0,38,3330.0,0,0,0.974,0.0,,,,Success,Success,Success
+341051,313672,Kyle Walker-Peters,28,Defender,Right-Back,Southampton,West Ham,West Ham,2025-07-20,0.0,eligible,2902.6,0,2,0.062,38,1406.5,1,0,0.411,0.064,0.082,-0.018,-0.161,Success,Ambiguous,Ambiguous
+341317,244303,Oliver Burke,28,Attack,Centre-Forward,Werder Bremen,Union Berlin,Union Berlin,2025-07-01,0.0,eligible,937.5,5,0,0.48,34,1640.4,6,2,0.536,0.439,0.522,-0.083,-0.381,Ambiguous,Ambiguous,Failure
+342046,299271,Axel Tuanzebe,27,Defender,Centre-Back,Ipswich,Burnley,Burnley,2025-07-01,0.0,eligible,1676.4,0,1,0.054,38,1197.3,1,0,0.35,0.075,0.084,-0.009,-0.08,Ambiguous,Ambiguous,Ambiguous
+344069,401073,Anton Stach,26,Midfield,Defensive Midfield,Hoffenheim,Leeds,Leeds,2025-07-22,20000000.0,eligible,2571.3,1,2,0.105,38,2329.7,5,3,0.681,0.309,0.145,0.164,1.172,Success,Success,Success
+344152,317504,Odsonne Édouard,27,Attack,Centre-Forward,Crystal Palace,Lens,Lens,2025-09-01,3700000.0,excl_low_baseline_min(<450),155.2,0,0,0.0,31,1728.5,12,3,0.62,0.781,,,,,,
+344381,300945,Christopher Nkunku,27,Attack,Centre-Forward,Chelsea,AC Milan,AC Milan,2025-08-30,37000000.0,eligible,983.8,3,2,0.457,36,1373.4,7,3,0.424,0.655,0.51,0.146,0.668,Success,Ambiguous,Ambiguous
+346567,332268,Luca Pellegrini,26,Defender,Left-Back,Juventus,Lazio,Lazio,2025-07-01,4000000.0,excl_already_at_dest_2425,1095.7,0,4,0.329,38,1427.5,1,0,0.417,0.063,,,,,,
+346707,342811,Sean Longstaff,27,Midfield,Central Midfield,Newcastle,Leeds,Leeds,2025-07-18,13800000.0,eligible,845.9,0,0,0.0,38,1060.8,2,2,0.31,0.339,0.129,0.21,1.502,Ambiguous,Ambiguous,Failure
+346890,376090,Noah Okafor,25,Attack,Left Winger,AC Milan,Leeds,Leeds,2025-08-21,19000000.0,eligible,472.8,1,0,0.19,37,1529.5,8,1,0.459,0.53,0.449,0.081,0.371,Success,Ambiguous,Ambiguous
+348026,299077,Nordi Mukiele,27,Defender,Right-Back,PSG,Sunderland,Sunderland,2025-08-17,12000000.0,eligible,908.0,1,0,0.099,37,2772.1,3,4,0.832,0.227,0.108,0.119,1.072,Success,Success,Success
+349066,299254,Alexander Isak,25,Attack,Centre-Forward,Newcastle,Liverpool,Liverpool,2025-09-01,145000000.0,eligible,2697.6,23,6,0.968,35,680.0,3,1,0.216,0.529,0.833,-0.303,-1.392,Failure,Failure,Failure
+349599,298694,Pervis Estupiñán,27,Defender,Left-Back,Brighton,AC Milan,AC Milan,2025-07-24,17000000.0,eligible,2390.1,1,1,0.075,38,1040.4,1,1,0.304,0.173,0.091,0.082,0.738,Ambiguous,Ambiguous,Failure
+351955,446953,Federico Baschirotto,28,Defender,Centre-Back,Lecce,Cremonese,Cremonese,2025-07-29,3000000.0,eligible,3420.0,2,0,0.053,38,2538.4,2,0,0.742,0.071,0.074,-0.003,-0.025,Success,Ambiguous,Ambiguous
+352041,307564,Lucas Perri,27,Goalkeeper,Goalkeeper,Lyon,Leeds,Leeds,2025-07-26,16000000.0,eligible,2970.0,0,0,0.0,38,1440.0,0,0,0.421,0.0,,,,Success,Ambiguous,Ambiguous
+353032,344639,Omar Alderete,28,Defender,Centre-Back,Getafe,Sunderland,Sunderland,2025-08-12,11600000.0,eligible,2946.0,1,0,0.031,38,2782.5,1,1,0.814,0.065,0.062,0.003,0.025,Success,Success,Ambiguous
+353948,300705,Lucas Tousart,28,Midfield,Central Midfield,Union Berlin,Stade Brestois,Brest,2025-09-01,,eligible,570.7,0,1,0.158,31,864.0,1,0,0.31,0.104,0.198,-0.094,-0.67,Ambiguous,Failure,Failure
+355861,323625,Arnaut Danjuma,28,Attack,Left Winger,Villarreal,Valencia,Valencia,2025-08-10,0.0,eligible,1522.5,4,0,0.236,38,1629.5,3,2,0.476,0.276,0.38,-0.104,-0.475,Ambiguous,Ambiguous,Failure
+357628,408942,Alfon González,26,Attack,Left Winger,Celta de Vigo,Sevilla FC,Sevilla,2025-07-01,0.0,eligible,1366.3,5,2,0.461,38,329.3,1,0,0.096,0.273,0.503,,,Failure,Failure,Failure
+357658,362806,Mark Travers,26,Goalkeeper,Goalkeeper,Bournemouth,Everton,Everton,2025-07-15,4600000.0,eligible,450.0,0,0,0.0,38,0.0,0,0,0.0,,,,,Failure,Failure,Failure
+358008,369883,Gianluca Gaetano,25,Midfield,Defensive Midfield,Napoli,Cagliari,Cagliari,2025-07-01,6200000.0,excl_already_at_dest_2425,1042.5,2,4,0.518,38,1914.4,2,4,0.56,0.282,,,,,,
+358504,343435,Ritsu Doan,27,Attack,Right Winger,Freiburg,Frankfurt,Eintracht Frankfurt,2025-08-07,21000000.0,eligible,2822.0,10,7,0.542,34,2306.5,5,5,0.754,0.39,0.545,-0.155,-0.71,Ambiguous,Failure,Failure
+361914,362434,Nayef Aguerd,29,Defender,Centre-Back,West Ham,Marseille,Marseille,2025-09-01,23000000.0,eligible,1753.8,0,0,0.0,31,1388.4,1,0,0.498,0.065,0.058,0.007,0.063,Success,Ambiguous,Ambiguous
+362108,330549,Gabriel Gudmundsson,26,Defender,Left-Back,Lille,Leeds,Leeds,2025-07-08,11600000.0,eligible,1779.6,2,0,0.101,38,2594.9,0,0,0.759,0.0,0.106,-0.106,-0.961,Ambiguous,Failure,Failure
+364258,302588,Bernardo,30,Defender,Left-Back,VfL Bochum,Hoffenheim,Hoffenheim,2025-07-01,0.0,eligible,1698.0,0,0,0.0,34,2287.5,0,0,0.748,0.0,0.059,-0.059,-0.536,Ambiguous,Failure,Failure
+365108,398414,Dan Ndoye,24,Attack,Right Winger,Bologna,Nott'm Forest,Nottingham Forest,2025-07-31,42000000.0,eligible,2118.1,8,4,0.51,38,1177.0,1,1,0.344,0.153,0.521,-0.368,-1.687,Failure,Failure,Failure
+371851,360941,Jaka Bijol,26,Defender,Centre-Back,Udinese,Leeds,Leeds,2025-07-01,18000000.0,eligible,2958.5,1,0,0.03,38,1891.0,1,2,0.553,0.143,0.06,0.082,0.743,Success,Success,Ambiguous
+372246,313542,Carlos Soler,28,Midfield,Central Midfield,PSG,Real Sociedad,Real Sociedad,2025-09-01,6000000.0,eligible,1411.9,1,1,0.127,35,2272.2,4,3,0.721,0.277,0.166,0.111,0.795,Success,Success,Success
+377393,301243,Pierre Lees-Melou,32,Midfield,Defensive Midfield,Stade Brestois,Paris FC,Paris FC,2025-08-28,5800000.0,eligible,1513.3,2,2,0.238,32,1759.7,1,3,0.611,0.205,0.21,-0.005,-0.038,Success,Ambiguous,Ambiguous
+378293,318505,Yangel Herrera,27,Midfield,Central Midfield,Girona,Real Sociedad,Real Sociedad,2025-09-01,11000000.0,eligible,2225.2,4,3,0.283,35,534.8,0,0,0.17,0.0,0.262,-0.262,-1.87,Failure,Failure,Failure
+381967,349102,Albert Sambi Lokonga,25,Midfield,Central Midfield,Arsenal,Hamburg,Hamburg,2025-09-01,300000.0,eligible,1459.1,0,2,0.123,32,1681.0,5,0,0.584,0.268,0.176,0.092,0.657,Success,Success,Ambiguous
+382478,383857,Cédric Zesiger,27,Defender,Centre-Back,Wolfsburg,Augsburg,Augsburg,2025-07-01,4000000.0,excl_already_at_dest_2425,1738.5,0,2,0.104,34,1832.4,0,0,0.599,0.0,,,,,,
+385105,286080,Gabriel Suazo,27,Defender,Left-Back,Toulouse,Sevilla FC,Sevilla,2025-07-12,0.0,eligible,2161.7,0,6,0.25,38,2093.7,0,1,0.612,0.043,0.189,-0.146,-1.315,Failure,Failure,Failure
+388165,296240,Yoane Wissa,28,Attack,Centre-Forward,Brentford,Newcastle,Newcastle,2025-09-01,57700000.0,eligible,2885.4,19,4,0.717,35,580.8,1,1,0.184,0.31,0.669,-0.359,-1.646,Failure,Failure,Failure
+389837,349406,Nicolò Casale,27,Defender,Centre-Back,Lazio,Bologna,Bologna,2025-07-01,6500000.0,excl_already_at_dest_2425,1038.0,0,1,0.087,38,687.1,0,0,0.201,0.0,,,,,,
+392770,338497,Angel Gomes,24,Midfield,Attacking Midfield,Lille,Marseille,Marseille,2025-07-04,0.0,eligible,719.1,1,1,0.25,34,879.7,3,0,0.287,0.307,0.247,0.06,0.428,Ambiguous,Ambiguous,Failure
+392966,423508,Nadir Zortea,26,Defender,Right-Back,Cagliari,Bologna,Bologna,2025-08-20,7500000.0,eligible,2668.1,6,2,0.27,38,1839.5,0,2,0.538,0.098,0.207,-0.109,-0.986,Ambiguous,Failure,Failure
+393238,373340,Zakaria Aboukhlal,25,Attack,Right Winger,Toulouse,Torino,Torino,2025-07-29,7500000.0,eligible,1877.4,7,2,0.431,38,525.1,0,0,0.154,0.0,0.476,-0.476,-2.185,Failure,Failure,Failure
+400536,409426,Mads Hermansen,25,Goalkeeper,Goalkeeper,Leicester,West Ham,West Ham,2025-08-09,20800000.0,eligible,2383.3,0,0,0.0,38,1620.0,0,1,0.474,0.056,,,,Success,Ambiguous,Ambiguous
+405885,371497,Giacomo Raspadori,25,Attack,Second Striker,Napoli,Atlético,Atletico,2025-08-11,22000000.0,eligible,1107.6,6,1,0.569,38,270.7,0,1,0.079,0.332,0.556,,,Failure,Failure,Failure
+412829,301330,Léo Pétrot,28,Defender,Centre-Back,Saint-Étienne,Elche CF,Elche,2025-07-11,0.0,eligible,2594.5,0,3,0.104,38,1616.0,0,0,0.473,0.0,0.108,-0.108,-0.978,Ambiguous,Failure,Failure
+413039,353377,Bryan Mbeumo,25,Attack,Right Winger,Brentford,Man Utd,Man Utd,2025-07-21,75000000.0,eligible,3398.7,20,7,0.715,38,2540.2,11,3,0.743,0.496,0.668,-0.172,-0.789,Ambiguous,Failure,Failure
+413220,301441,James Justin,27,Defender,Right-Back,Leicester,Leeds,Leeds,2025-08-25,9300000.0,eligible,2880.6,2,2,0.125,36,1919.5,2,1,0.592,0.141,0.12,0.02,0.182,Success,Success,Ambiguous
+413262,334221,Dani Raba,29,Attack,Second Striker,CD Leganés,Valencia,Valencia,2025-07-01,0.0,eligible,1831.5,8,6,0.688,38,310.6,0,1,0.091,0.29,0.635,,,Failure,Failure,Failure
+421873,362780,Elia Caprile,23,Goalkeeper,Goalkeeper,Napoli,Cagliari,Cagliari,2025-07-01,8200000.0,excl_already_at_dest_2425,1947.3,0,0,0.0,38,3420.0,0,0,1.0,0.0,,,,,,
+423440,372424,Martín Zubimendi,26,Midfield,Defensive Midfield,Real Sociedad,Arsenal,Arsenal,2025-07-06,70000000.0,eligible,2966.1,2,1,0.091,38,2953.1,5,1,0.863,0.183,0.131,0.052,0.369,Success,Success,Success
+424072,303314,Mathias Pereira Lage,28,Attack,Left Winger,Stade Brestois,St. Pauli,St. Pauli,2025-07-01,0.0,eligible,1561.7,2,7,0.519,34,1957.0,2,2,0.64,0.184,0.535,-0.351,-1.608,Failure,Failure,Failure
+425306,,Matt Turner,31,Goalkeeper,Goalkeeper,Nott'm Forest,Lyon,Lyon,2025-08-01,8000000.0,excl_unmatched_ws,0.0,0,0,,34,0.0,0,0,0.0,,,,,,,
+429983,333048,Jørgen Strand Larsen,25,Attack,Centre-Forward,Celta de Vigo,Wolves,Wolves,2025-07-01,27000000.0,excl_already_at_dest_2425,2522.5,14,4,0.642,38,1394.2,1,1,0.408,0.129,,,,,,
+432090,369426,Nicolò Fagioli,24,Midfield,Central Midfield,Juventus,Fiorentina,Fiorentina,2025-07-01,13500000.0,excl_already_at_dest_2425,1565.5,1,2,0.172,38,2510.3,2,3,0.734,0.179,,,,,,
+432092,369414,Roberto Piccoli,24,Attack,Centre-Forward,Cagliari,Fiorentina,Fiorentina,2025-08-25,25000000.0,eligible,3070.7,10,1,0.322,37,1707.9,4,1,0.513,0.263,0.384,-0.121,-0.554,Ambiguous,Failure,Failure
+433984,422739,Sam Beukema,26,Defender,Centre-Back,Bologna,Napoli,Napoli,2025-07-20,31000000.0,eligible,3012.5,0,1,0.03,38,1686.2,2,0,0.493,0.107,0.06,0.047,0.424,Success,Ambiguous,Ambiguous
+434433,404252,Nikola Krstović,25,Attack,Centre-Forward,Lecce,Atalanta,Atalanta,2025-08-20,25000000.0,eligible,3024.2,11,5,0.476,38,1804.3,10,5,0.528,0.748,0.495,0.253,1.16,Success,Success,Ambiguous
+435228,366671,Ardian Ismajli,28,Defender,Centre-Back,FC Empoli,Torino,Torino,2025-07-08,0.0,eligible,2504.9,0,0,0.0,38,1905.6,0,1,0.557,0.047,0.047,0.0,0.001,Success,Success,Ambiguous
+441170,319388,Valentin Rosier,28,Defender,Right-Back,CD Leganés,CA Osasuna,Osasuna,2025-07-01,0.0,eligible,2604.2,1,2,0.104,38,2518.8,1,1,0.737,0.071,0.108,-0.037,-0.331,Ambiguous,Ambiguous,Failure
+448632,319767,Yehvann Diouf,25,Goalkeeper,Goalkeeper,Stade Reims,Nice,Nice,2025-07-03,6500000.0,eligible,3060.0,0,0,0.0,34,2340.0,0,0,0.765,0.0,,,,Success,Success,Success
+453870,485184,Benedict Hollerbach,24,Attack,Centre-Forward,Union Berlin,Mainz,Mainz,2025-07-01,10000000.0,eligible,2489.9,9,0,0.325,34,831.1,1,2,0.272,0.325,0.396,-0.072,-0.328,Ambiguous,Ambiguous,Failure
+455661,386606,Nick Woltemade,23,Attack,Centre-Forward,Stuttgart,Newcastle,Newcastle,2025-08-30,75000000.0,eligible,1644.0,12,2,0.766,36,1856.9,8,3,0.573,0.533,0.667,-0.134,-0.616,Ambiguous,Failure,Failure
+457931,294744,Luiz Felipe,28,Defender,Centre-Back,Marseille,Rayo Vallecano,Rayo Vallecano,2025-07-07,0.0,excl_low_baseline_min(<450),128.7,0,0,0.0,38,479.8,0,0,0.14,0.0,,,,,,
+460939,343382,Tijjani Reijnders,26,Midfield,Central Midfield,AC Milan,Man City,Man City,2025-06-10,54900000.0,eligible,3118.4,10,4,0.404,38,1610.7,5,2,0.471,0.391,0.358,0.033,0.233,Success,Ambiguous,Ambiguous
+461607,515577,Estéban Lepaul,25,Attack,Centre-Forward,Angers SCO,Stade Rennais,Rennes,2025-08-28,13500000.0,eligible,1628.2,9,0,0.497,32,2452.8,20,5,0.852,0.917,0.518,0.4,1.833,Success,Success,Success
+461617,382631,Rodrigo Riquelme,25,Attack,Left Winger,Atlético,Real Betis,Real Betis,2025-07-04,8000000.0,eligible,549.5,0,1,0.164,38,856.9,1,1,0.251,0.21,0.429,-0.219,-1.006,Failure,Failure,Failure
+463600,398299,Lucas Chevalier,23,Goalkeeper,Goalkeeper,Lille,PSG,PSG,2025-08-09,40000000.0,eligible,3060.0,0,0,0.0,34,1530.0,0,0,0.5,0.0,,,,Success,Success,Ambiguous
+463605,366875,Bafodé Diakité,24,Defender,Centre-Back,Lille,Bournemouth,Bournemouth,2025-08-13,35000000.0,eligible,2763.1,4,1,0.163,38,1289.6,0,0,0.377,0.0,0.142,-0.142,-1.278,Failure,Failure,Failure
+465555,406564,Djordje Petrovic,25,Goalkeeper,Goalkeeper,Chelsea,Bournemouth,Bournemouth,2025-07-16,28900000.0,eligible,2790.0,0,0,0.0,38,3420.0,0,0,1.0,0.0,,,,Success,Success,Success
+466783,396147,Arnau Tenas,24,Goalkeeper,Goalkeeper,PSG,Villarreal,Villarreal,2025-08-28,2500000.0,excl_low_baseline_min(<450),90.0,0,1,1.0,36,900.0,0,0,0.278,0.0,,,,,,
+467992,372509,Samuele Ricci,23,Midfield,Defensive Midfield,Torino,AC Milan,AC Milan,2025-07-03,23000000.0,eligible,2792.3,1,1,0.064,38,1367.3,1,4,0.4,0.329,0.127,0.202,1.444,Ambiguous,Ambiguous,Ambiguous
+469669,396583,Yvan Neyou,28,Midfield,Defensive Midfield,CD Leganés,Getafe,Getafe,2025-07-01,0.0,eligible,2279.4,1,1,0.079,38,83.7,0,0,0.024,0.0,0.122,,,Failure,Failure,Failure
+475188,391256,Kiernan Dewsbury-Hall,26,Midfield,Central Midfield,Chelsea,Everton,Everton,2025-08-06,28650000.0,excl_low_baseline_min(<450),301.7,0,1,0.298,38,2576.6,8,4,0.753,0.419,,,,,,
+479999,332403,Eberechi Eze,27,Midfield,Attacking Midfield,Crystal Palace,Arsenal,Arsenal,2025-08-23,69300000.0,eligible,2540.4,8,8,0.567,37,1788.2,7,2,0.537,0.453,0.459,-0.006,-0.042,Success,Ambiguous,Ambiguous
+480116,332419,Lloyd Kelly,26,Defender,Centre-Back,Newcastle,Juventus,Juventus,2025-07-01,17200000.0,excl_already_at_dest_2425,1333.9,0,1,0.067,38,2988.6,1,1,0.874,0.06,,,,,,
+480692,377168,Luis Díaz,28,Attack,Left Winger,Liverpool,Bayern Munich,Bayern,2025-07-30,70000000.0,eligible,2348.3,13,5,0.69,34,2436.9,15,14,0.796,1.071,0.643,0.428,1.962,Success,Success,Success
+484547,392644,Jeremie Frimpong,24,Defender,Right-Back,Leverkusen,Liverpool,Liverpool,2025-07-01,40000000.0,eligible,2289.6,5,5,0.393,38,1056.4,0,1,0.309,0.085,0.27,-0.185,-1.667,Failure,Failure,Failure
+485960,398931,Lilian Brassier,25,Defender,Centre-Back,Stade Brestois,Stade Rennais,Rennes,2025-07-01,12000000.0,excl_already_at_dest_2425,2016.1,1,1,0.089,34,2246.5,0,1,0.734,0.04,,,,,,
+486031,345322,Nico González,27,Attack,Left Winger,Fiorentina,Juventus,Juventus,2025-07-01,28100000.0,excl_already_at_dest_2425,1714.5,3,2,0.262,38,26.5,0,0,0.008,0.0,,,,,,
+488626,422820,Jesús Areso,26,Defender,Right-Back,CA Osasuna,Athletic Club,Athletic Club,2025-07-22,12000000.0,eligible,3031.2,0,3,0.089,38,1510.8,0,1,0.442,0.06,0.097,-0.038,-0.34,Ambiguous,Ambiguous,Failure
+490384,404623,Koni De Winter,23,Defender,Centre-Back,Genoa,AC Milan,AC Milan,2025-08-13,20000000.0,eligible,2140.5,3,0,0.126,38,1823.3,1,1,0.533,0.099,0.118,-0.019,-0.171,Success,Ambiguous,Ambiguous
+490606,424586,Lucas Bergström,22,Goalkeeper,Goalkeeper,Chelsea,RCD Mallorca,Mallorca,2025-07-15,0.0,excl_low_baseline_min(<450),0.0,0,0,,38,450.0,0,0,0.132,0.0,,,,,,
+495722,445732,Devis Vásquez,27,Goalkeeper,Goalkeeper,AC Milan,Roma,Roma,2025-07-29,0.0,eligible,2880.0,0,0,0.0,38,0.0,0,0,0.0,,,,,Failure,Failure,Failure
+496857,363181,Edon Zhegrova,26,Attack,Right Winger,Lille,Juventus,Juventus,2025-09-01,15500000.0,eligible,943.0,4,1,0.477,36,436.5,0,0,0.135,0.0,0.518,,,Failure,Failure,Failure
+500689,382587,Evann Guessand,24,Attack,Right Winger,Nice,Aston Villa,Aston Villa,2025-08-08,30000000.0,eligible,2531.0,12,8,0.711,38,595.0,0,1,0.174,0.151,0.654,-0.503,-2.305,Failure,Failure,Failure
+503749,369813,Jacob Ramsey,24,Midfield,Central Midfield,Aston Villa,Newcastle,Newcastle,2025-08-17,45150000.0,eligible,1580.3,1,3,0.228,37,1477.8,2,3,0.444,0.305,0.238,0.066,0.473,Success,Ambiguous,Ambiguous
+503987,389935,Noni Madueke,23,Attack,Right Winger,Chelsea,Arsenal,Arsenal,2025-07-18,56000000.0,eligible,1977.2,7,3,0.455,38,1199.6,3,1,0.351,0.3,0.486,-0.186,-0.854,Ambiguous,Failure,Failure
+504148,386979,Tariq Lamptey,24,Defender,Right-Back,Brighton,Fiorentina,Fiorentina,2025-09-01,3000000.0,eligible,866.9,2,2,0.415,36,27.3,0,0,0.008,0.0,0.211,,,Failure,Failure,Failure
+504215,389087,Giovanni Reyna,22,Midfield,Attacking Midfield,Dortmund,Mönchengladbach,Borussia M.Gladbach,2025-08-23,4000000.0,excl_low_baseline_min(<450),397.7,2,0,0.453,34,563.5,1,0,0.184,0.16,,,,,,
+505653,380655,Fábio Silva,23,Attack,Centre-Forward,Wolves,Dortmund,Borussia Dortmund,2025-08-29,22500000.0,eligible,1812.7,10,3,0.645,33,866.4,2,6,0.292,0.831,0.601,0.23,1.055,Ambiguous,Ambiguous,Failure
+507341,404193,Fabian Rieder,23,Midfield,Attacking Midfield,Stade Rennais,Augsburg,Augsburg,2025-09-01,7000000.0,eligible,882.2,1,3,0.408,32,2326.8,6,3,0.808,0.348,0.321,0.027,0.195,Success,Success,Ambiguous
+507486,367177,Simon Sohm,24,Midfield,Central Midfield,Parma,Fiorentina,Fiorentina,2025-08-04,15000000.0,eligible,2958.8,4,0,0.122,38,718.8,0,1,0.21,0.125,0.162,-0.037,-0.261,Ambiguous,Failure,Failure
+517894,362758,Matheus Cunha,26,Attack,Centre-Forward,Wolves,Man Utd,Man Utd,2025-07-01,74200000.0,eligible,2569.1,15,6,0.736,38,2447.4,10,2,0.716,0.441,0.674,-0.233,-1.067,Failure,Failure,Failure
+520530,373033,Fali Candé,27,Defender,Centre-Back,Venezia,Sassuolo,Sassuolo,2025-08-10,4500000.0,eligible,1530.0,1,1,0.118,38,521.6,0,0,0.153,0.0,0.115,-0.115,-1.04,Failure,Failure,Failure
+520840,444252,José Copete,25,Defender,Centre-Back,RCD Mallorca,Valencia,Valencia,2025-07-28,3600000.0,eligible,1559.6,0,0,0.0,38,1749.4,0,0,0.512,0.0,0.059,-0.059,-0.528,Ambiguous,Failure,Failure
+521964,393355,Malick Thiaw,24,Defender,Centre-Back,AC Milan,Newcastle,Newcastle,2025-08-12,35000000.0,eligible,1810.4,0,0,0.0,38,2971.4,4,0,0.869,0.121,0.054,0.067,0.609,Success,Success,Success
+525299,395788,Miguel Gutiérrez,24,Defender,Left-Back,Girona,Napoli,Napoli,2025-08-19,18000000.0,eligible,2440.4,1,5,0.221,38,1510.8,1,1,0.442,0.119,0.174,-0.055,-0.496,Ambiguous,Ambiguous,Failure
+525704,369688,Nicolò Rovella,23,Midfield,Defensive Midfield,Juventus,Lazio,Lazio,2025-07-01,17000000.0,excl_already_at_dest_2425,2692.6,0,3,0.1,38,512.3,0,1,0.15,0.176,,,,,,
+528833,393039,Lazar Samardžić,23,Midfield,Attacking Midfield,Udinese,Atalanta,Atalanta,2025-07-01,16600000.0,excl_already_at_dest_2425,1221.2,2,1,0.221,38,1054.3,2,1,0.308,0.256,,,,,,
+532776,389409,Amine Adli,25,Attack,Left Winger,Leverkusen,Bournemouth,Bournemouth,2025-08-21,21000000.0,eligible,796.0,2,0,0.226,37,1140.0,3,1,0.342,0.316,0.421,-0.106,-0.484,Ambiguous,Ambiguous,Failure
+533738,383855,Jonathan David,25,Attack,Centre-Forward,Lille,Juventus,Juventus,2025-07-04,0.0,eligible,2512.2,16,5,0.752,38,1787.9,6,4,0.523,0.503,0.683,-0.179,-0.822,Ambiguous,Failure,Failure
+535955,379790,Nuno Tavares,25,Defender,Left-Back,Arsenal,Lazio,Lazio,2025-07-01,5580000.0,excl_already_at_dest_2425,1635.9,0,8,0.44,38,1487.4,0,0,0.435,0.0,,,,,,
+537382,368519,Bryan Gil,24,Attack,Left Winger,Tottenham,Girona,Girona,2025-09-01,6000000.0,excl_already_at_dest_2425,1685.2,3,3,0.32,35,1543.8,0,3,0.49,0.175,,,,,,
+540664,402130,Dilane Bakwa,23,Attack,Right Winger,R. Strasbourg,Nott'm Forest,Nottingham Forest,2025-09-01,35000000.0,eligible,2429.0,6,8,0.519,35,554.7,0,2,0.176,0.324,0.524,-0.199,-0.914,Ambiguous,Failure,Failure
+543499,400166,Mohammed Kudus,24,Attack,Right Winger,West Ham,Tottenham,Tottenham,2025-07-10,63800000.0,eligible,2523.6,5,3,0.285,38,1493.5,2,5,0.437,0.422,0.369,0.053,0.243,Success,Ambiguous,Ambiguous
+546926,422637,Jay Idzes,25,Defender,Centre-Back,Venezia,Sassuolo,Sassuolo,2025-08-09,8100000.0,eligible,3124.5,1,0,0.029,38,3054.2,0,0,0.893,0.0,0.058,-0.058,-0.521,Ambiguous,Failure,Failure
+548111,395242,Álex Baena,23,Attack,Left Winger,Villarreal,Atlético,Atletico,2025-07-02,42000000.0,eligible,2553.3,7,9,0.564,38,1548.3,2,3,0.453,0.291,0.554,-0.263,-1.207,Failure,Failure,Failure
+548188,390240,Germán Valera,23,Attack,Left Winger,Valencia,Elche CF,Elche,2025-07-03,100000.0,excl_low_baseline_min(<450),170.5,0,0,0.0,38,2795.1,4,5,0.817,0.29,,,,,,
+550108,403913,Nicola Zalewski,23,Midfield,Left Midfield,Inter,Atalanta,Atalanta,2025-08-18,17500000.0,eligible,996.3,1,1,0.181,38,1873.4,2,4,0.548,0.288,0.221,0.068,0.482,Success,Success,Ambiguous
+550580,447590,Shuto Machino,25,Attack,Centre-Forward,Holstein Kiel,Mönchengladbach,Borussia M.Gladbach,2025-07-26,8000000.0,eligible,1864.3,11,2,0.628,34,1131.0,3,1,0.37,0.318,0.594,-0.276,-1.264,Failure,Failure,Failure
+557613,411087,Quentin Merlin,23,Defender,Left-Back,Marseille,Stade Rennais,Rennes,2025-07-22,13000000.0,eligible,1559.2,1,3,0.231,34,2534.4,1,5,0.828,0.213,0.166,0.047,0.424,Success,Success,Success
+559979,409740,Abdel Abqar,26,Defender,Centre-Back,Alavés,Getafe,Getafe,2025-07-29,0.0,eligible,2451.9,0,1,0.037,38,1428.6,0,2,0.418,0.126,0.068,0.058,0.525,Success,Ambiguous,Ambiguous
+561613,422824,Joan García,24,Goalkeeper,Goalkeeper,Espanyol,Barcelona,Barcelona,2025-07-01,25000000.0,eligible,3420.0,0,0,0.0,38,2700.0,0,0,0.789,0.0,,,,Success,Success,Success
+563137,400237,Robert Navarro,23,Attack,Right Winger,RCD Mallorca,Athletic Club,Athletic Club,2025-07-01,0.0,eligible,1238.6,1,0,0.073,38,1350.6,6,1,0.395,0.466,0.307,0.16,0.732,Ambiguous,Ambiguous,Ambiguous
+564305,356176,Michel Adopo,24,Midfield,Central Midfield,Atalanta,Cagliari,Cagliari,2025-07-01,3800000.0,excl_already_at_dest_2425,2374.8,1,1,0.076,38,3017.6,1,2,0.882,0.089,,,,,,
+566931,399772,Xavi Simons,22,Midfield,Attacking Midfield,Leipzig,Tottenham,Tottenham,2025-08-29,65000000.0,eligible,2131.8,10,7,0.718,36,1745.5,2,5,0.539,0.361,0.565,-0.204,-1.456,Failure,Failure,Failure
+568157,403865,Yéremy Pino,22,Attack,Right Winger,Villarreal,Crystal Palace,Crystal Palace,2025-08-29,30000000.0,eligible,1880.7,4,7,0.526,36,2023.6,2,2,0.625,0.178,0.529,-0.351,-1.609,Failure,Failure,Failure
+569383,398372,Chrislain Matsima,23,Defender,Centre-Back,Monaco,Augsburg,Augsburg,2025-07-01,5000000.0,excl_already_at_dest_2425,2545.5,1,1,0.071,34,1489.1,1,1,0.487,0.121,,,,,,
+571743,393407,Armando Broja,23,Attack,Centre-Forward,Chelsea,Burnley,Burnley,2025-08-08,23000000.0,excl_low_baseline_min(<450),339.7,0,0,0.0,38,905.1,1,1,0.265,0.199,,,,,,
+578391,355401,Rayan Aït-Nouri,24,Defender,Left-Back,Wolves,Man City,Man City,2025-06-09,36800000.0,eligible,3038.2,4,7,0.326,38,979.8,0,2,0.286,0.184,0.246,-0.062,-0.563,Ambiguous,Failure,Failure
+583189,413211,Anthony Elanga,23,Attack,Right Winger,Nott'm Forest,Newcastle,Newcastle,2025-07-11,61400000.0,eligible,2471.0,6,11,0.619,38,1352.9,0,1,0.396,0.067,0.59,-0.524,-2.403,Failure,Failure,Failure
+583199,425576,James McAtee,22,Midfield,Attacking Midfield,Man City,Nott'm Forest,Nottingham Forest,2025-08-16,25500000.0,excl_low_baseline_min(<450),379.2,3,0,0.712,38,348.4,0,1,0.102,0.258,,,,,,
+583699,426239,Andrej Ilic,25,Attack,Centre-Forward,Lille,Union Berlin,Union Berlin,2025-07-01,5000000.0,excl_already_at_dest_2425,918.8,7,0,0.686,34,2258.2,5,9,0.738,0.558,,,,,,
+585949,391836,Pierre Kalulu,25,Defender,Centre-Back,AC Milan,Juventus,Juventus,2025-07-01,14300000.0,excl_already_at_dest_2425,2336.2,1,0,0.039,38,3278.2,2,4,0.959,0.165,,,,,,
+585959,384005,Arnaud Kalimuendo,23,Attack,Centre-Forward,Stade Rennais,Nott'm Forest,Nottingham Forest,2025-08-18,30000000.0,eligible,2530.0,17,3,0.711,37,131.2,0,0,0.039,0.0,0.653,,,Failure,Failure,Failure
+585973,444509,Johann Lepenant,22,Midfield,Defensive Midfield,Lyon,FC Nantes,Nantes,2025-07-01,2500000.0,excl_already_at_dest_2425,2025.9,2,1,0.133,34,2174.0,0,1,0.71,0.041,,,,,,
+592534,485118,Nicolai Remberg,25,Midfield,Defensive Midfield,Holstein Kiel,Hamburg,Hamburg,2025-07-01,2400000.0,eligible,2348.0,0,1,0.038,34,2880.0,0,2,0.941,0.062,0.107,-0.044,-0.316,Ambiguous,Ambiguous,Failure
+593412,495542,Ilyas Chaira,24,Attack,Left Winger,Girona,Real Oviedo,Real Oviedo,2025-07-11,1500000.0,excl_low_baseline_min(<450),0.0,0,0,,38,2404.8,6,2,0.703,0.299,,,,,,
+593482,392361,Azzedine Ounahi,25,Midfield,Central Midfield,Marseille,Girona,Girona,2025-08-30,6000000.0,excl_low_baseline_min(<450),0.0,0,0,,36,1744.0,5,2,0.538,0.361,,,,,,
+598577,394786,Florian Wirtz,22,Midfield,Attacking Midfield,Leverkusen,Liverpool,Liverpool,2025-07-01,125000000.0,eligible,2339.2,10,12,0.846,38,2314.1,5,3,0.677,0.311,0.661,-0.35,-2.501,Failure,Failure,Failure
+602105,364315,Antony,25,Attack,Right Winger,Man Utd,Real Betis,Real Betis,2025-09-01,22000000.0,excl_already_at_dest_2425,1526.7,5,2,0.413,34,2401.1,8,6,0.785,0.525,,,,,,
+605184,361710,Jean-Clair Todibo,25,Defender,Centre-Back,Nice,West Ham,West Ham,2025-07-01,40000000.0,excl_already_at_dest_2425,1814.9,0,0,0.0,38,1804.9,0,1,0.528,0.05,,,,,,
+605268,407222,Igor Matanovic,22,Attack,Centre-Forward,Frankfurt,Freiburg,Freiburg,2025-07-09,6700000.0,excl_low_baseline_min(<450),356.2,1,0,0.253,34,1605.4,11,2,0.525,0.729,,,,,,
+610849,401254,Liam Delap,22,Attack,Centre-Forward,Ipswich,Chelsea,Chelsea,2025-06-04,35500000.0,eligible,2505.7,12,2,0.503,38,1150.8,1,0,0.336,0.078,0.512,-0.433,-1.987,Failure,Failure,Failure
+612517,467968,Bashir Humphreys,22,Defender,Centre-Back,Chelsea,Burnley,Burnley,2025-07-01,14000000.0,excl_low_baseline_min(<450),0.0,0,0,,38,1570.3,0,0,0.459,0.0,,,,,,
+616344,395850,Tiago Tomás,23,Attack,Right Winger,Wolfsburg,Stuttgart,Stuttgart,2025-08-16,13000000.0,eligible,1845.0,6,1,0.341,34,1052.3,5,3,0.344,0.684,0.42,0.264,1.211,Ambiguous,Ambiguous,Failure
+616631,402046,Matteo Ruggeri,22,Defender,Left-Back,Atalanta,Atlético,Atletico,2025-07-01,17000000.0,eligible,1764.6,0,3,0.153,38,1772.6,0,3,0.518,0.152,0.13,0.022,0.202,Success,Success,Ambiguous
+617074,409030,Ilaix Moriba,22,Midfield,Central Midfield,Leipzig,Celta de Vigo,Celta Vigo,2025-07-01,6000000.0,excl_already_at_dest_2425,2113.4,1,1,0.085,38,2517.2,2,3,0.736,0.179,,,,,,
+618494,425568,Tyler Morton,22,Midfield,Defensive Midfield,Liverpool,Lyon,Lyon,2025-08-05,10000000.0,excl_low_baseline_min(<450),0.0,0,0,,34,2481.9,2,2,0.811,0.145,,,,,,
+621993,399490,Andrew Omobamidele,23,Defender,Centre-Back,Nott'm Forest,R. Strasbourg,Strasbourg,2025-07-01,10500000.0,excl_already_at_dest_2425,555.9,0,0,0.0,34,1389.5,1,0,0.454,0.065,,,,,,
+622988,444265,Fran Pérez,22,Attack,Right Winger,Valencia,Rayo Vallecano,Rayo Vallecano,2025-08-15,1000000.0,eligible,629.9,0,0,0.0,38,1257.4,2,1,0.368,0.215,0.359,-0.144,-0.66,Ambiguous,Failure,Failure
+624037,380645,Joris Chotard,23,Midfield,Defensive Midfield,Montpellier,Stade Brestois,Brest,2025-08-23,2400000.0,eligible,1844.7,1,0,0.049,33,2758.4,2,1,0.929,0.098,0.132,-0.034,-0.245,Success,Ambiguous,Ambiguous
+625651,401173,Urko González de Zárate,24,Midfield,Defensive Midfield,Real Sociedad,Espanyol,Espanyol,2025-08-28,5000000.0,excl_already_at_dest_2425,1384.1,0,2,0.13,36,2632.4,0,1,0.812,0.034,,,,,,
+625660,413346,Jon Ander Olasagasti,24,Midfield,Central Midfield,Real Sociedad,Levante,Levante,2025-07-16,500000.0,eligible,864.6,1,1,0.208,38,1749.3,1,5,0.512,0.309,0.23,0.079,0.562,Success,Success,Ambiguous
+626724,373525,João Pedro,23,Attack,Centre-Forward,Brighton,Chelsea,Chelsea,2025-07-02,63700000.0,eligible,1913.4,10,6,0.753,38,2597.8,15,5,0.76,0.693,0.667,0.026,0.119,Success,Success,Ambiguous
+627228,421975,Yan Couto,23,Defender,Right-Back,Man City,Dortmund,Borussia Dortmund,2025-07-01,20000000.0,excl_already_at_dest_2425,917.2,0,0,0.0,34,1014.4,2,2,0.331,0.355,,,,,,
+627442,424191,Benjamin Sesko,22,Attack,Centre-Forward,Leipzig,Man Utd,Man Utd,2025-08-09,76500000.0,eligible,2337.0,13,5,0.693,38,1675.6,11,1,0.49,0.645,0.636,0.008,0.038,Success,Ambiguous,Ambiguous
+632349,430019,Jarell Quansah,22,Defender,Centre-Back,Liverpool,Leverkusen,Leverkusen,2025-07-02,35000000.0,eligible,522.0,0,0,0.0,34,2286.3,4,0,0.747,0.157,0.084,0.073,0.663,Success,Success,Success
+633992,398393,Enzo Le Fée,25,Midfield,Central Midfield,Roma,Sunderland,Sunderland,2025-07-01,23750000.0,excl_low_baseline_min(<450),314.1,0,0,0.0,38,2912.1,5,6,0.851,0.34,,,,,,
+638793,371027,Tajon Buchanan,26,Attack,Right Winger,Inter,Villarreal,Villarreal,2025-07-29,9000000.0,excl_already_at_dest_2425,550.1,1,2,0.491,38,1803.7,7,1,0.527,0.399,,,,,,
+640109,403803,Martín Satriano,24,Attack,Centre-Forward,Inter,Lens,Lens,2025-07-01,4750000.0,excl_already_at_dest_2425,114.2,0,0,0.0,34,0.0,0,0,0.0,,,,,,,
+644771,384516,Odilon Kossounou,24,Defender,Centre-Back,Leverkusen,Atalanta,Atalanta,2025-07-01,19300000.0,excl_already_at_dest_2425,1133.9,0,0,0.0,38,995.0,1,0,0.291,0.09,,,,,,
+654539,398301,Adrien Truffert,23,Defender,Left-Back,Stade Rennais,Bournemouth,Bournemouth,2025-07-01,13500000.0,eligible,2731.4,2,2,0.132,38,3374.0,1,5,0.987,0.16,0.122,0.038,0.344,Success,Success,Success
+658536,443004,Simon Adingra,23,Attack,Left Winger,Brighton,Sunderland,Sunderland,2025-07-10,24400000.0,eligible,1138.2,2,2,0.316,38,647.6,1,0,0.189,0.139,0.433,-0.294,-1.349,Failure,Failure,Failure
+659089,399826,Ilya Zabarnyi,22,Defender,Centre-Back,Bournemouth,PSG,PSG,2025-08-12,63000000.0,eligible,3091.2,0,1,0.029,34,2387.6,1,0,0.78,0.038,0.056,-0.018,-0.167,Success,Ambiguous,Ambiguous
+668547,433972,Máximo Perrone,22,Midfield,Defensive Midfield,Man City,Como,Como,2025-07-18,13000000.0,excl_already_at_dest_2425,1853.0,0,3,0.146,38,2720.5,3,4,0.795,0.232,,,,,,
+672381,429723,Jonathan Rowe,22,Attack,Left Winger,Marseille,Bologna,Bologna,2025-08-24,17000000.0,eligible,861.1,3,3,0.627,37,1569.6,3,2,0.471,0.287,0.574,-0.288,-1.319,Failure,Failure,Failure
+684210,400610,Jaidon Anthony,25,Attack,Left Winger,Bournemouth,Burnley,Burnley,2025-07-01,9500000.0,excl_low_baseline_min(<450),0.0,0,0,,38,2669.7,8,2,0.781,0.337,,,,,,
+688707,422189,Salis Abdul Samed,25,Midfield,Defensive Midfield,Lens,Nice,Nice,2025-08-14,2500000.0,excl_low_baseline_min(<450),0.0,0,0,,34,907.3,0,0,0.297,0.0,,,,,,
+689505,379230,Johnny Cardoso,23,Midfield,Central Midfield,Real Betis,Atlético,Atletico,2025-07-16,24000000.0,eligible,2142.6,3,1,0.168,38,868.9,0,0,0.254,0.0,0.204,-0.204,-1.453,Failure,Failure,Failure
+691316,388567,Luis Henrique,23,Midfield,Right Midfield,Marseille,Inter,Inter,2025-06-07,22800000.0,eligible,2581.5,7,7,0.488,38,1621.1,1,2,0.474,0.167,0.423,-0.256,-1.827,Failure,Failure,Failure
+691482,431359,Jacopo Fazzini,22,Midfield,Central Midfield,FC Empoli,Fiorentina,Fiorentina,2025-07-01,9300000.0,eligible,1359.3,4,1,0.331,38,615.0,0,0,0.18,0.0,0.303,-0.303,-2.161,Failure,Failure,Failure
+691786,415955,Morgan Guilavogui,27,Attack,Right Winger,St. Pauli,Lens,Lens,2025-07-02,4500000.0,eligible,1784.8,6,2,0.403,34,528.2,1,0,0.173,0.17,0.464,-0.294,-1.348,Failure,Failure,Failure
+708072,450289,Nicolò Savona,22,Defender,Right-Back,Juventus,Nott'm Forest,Nottingham Forest,2025-08-30,13000000.0,eligible,1714.8,2,1,0.157,36,1035.4,2,0,0.32,0.174,0.132,0.042,0.379,Ambiguous,Ambiguous,Failure
+709726,403784,Hugo Ekitiké,23,Attack,Centre-Forward,Frankfurt,Liverpool,Liverpool,2025-07-23,95000000.0,eligible,2499.4,15,8,0.828,38,1768.9,11,4,0.517,0.763,0.73,0.033,0.153,Success,Success,Ambiguous
+711969,402874,Lorenz Assignon,25,Defender,Right-Back,Stade Rennais,Stuttgart,Stuttgart,2025-07-01,12000000.0,eligible,2337.4,3,4,0.27,34,1106.0,0,0,0.361,0.0,0.201,-0.201,-1.816,Failure,Failure,Failure
+711976,415415,Andy Diouf,22,Midfield,Central Midfield,Lens,Inter,Inter,2025-08-22,20000000.0,eligible,2181.8,1,2,0.124,38,532.1,1,0,0.156,0.169,0.179,-0.009,-0.067,Ambiguous,Failure,Failure
+720038,445092,Pablo Torre,22,Midfield,Attacking Midfield,Barcelona,RCD Mallorca,Mallorca,2025-07-14,5000000.0,excl_low_baseline_min(<450),312.3,3,1,1.153,38,1599.0,4,4,0.468,0.45,,,,,,
+729814,389020,Georges Mikautadze,24,Attack,Centre-Forward,Lyon,Villarreal,Villarreal,2025-09-01,31000000.0,eligible,1496.8,11,6,1.022,35,2077.7,13,6,0.66,0.823,0.803,0.02,0.091,Success,Success,Ambiguous
+730581,398416,Loïc Badé,25,Defender,Centre-Back,Sevilla FC,Leverkusen,Leverkusen,2025-08-21,25000000.0,eligible,2681.8,1,1,0.067,34,1656.5,0,0,0.541,0.0,0.084,-0.084,-0.758,Ambiguous,Failure,Failure
+735568,402206,Natan,24,Defender,Centre-Back,Napoli,Real Betis,Real Betis,2025-07-01,9000000.0,excl_already_at_dest_2425,2203.1,1,1,0.082,38,2798.6,0,0,0.818,0.0,,,,,,
+746695,422135,Kamaldeen Sulemana,23,Attack,Left Winger,Southampton,Atalanta,Atalanta,2025-07-02,17500000.0,eligible,1404.3,1,1,0.128,38,1038.3,2,1,0.304,0.26,0.321,-0.061,-0.281,Ambiguous,Ambiguous,Failure
+748382,401593,Amin Sarr,24,Attack,Centre-Forward,Lyon,Hellas Verona,Verona,2025-07-01,3500000.0,excl_already_at_dest_2425,1862.2,4,1,0.242,38,1161.8,0,1,0.34,0.077,,,,,,
+763182,486042,Josué Casimir,23,Attack,Right Winger,Le Havre AC,AJ Auxerre,Auxerre,2025-07-01,0.0,eligible,1960.5,4,3,0.321,34,1522.0,1,0,0.497,0.059,0.405,-0.346,-1.586,Failure,Failure,Failure
+776798,404201,Abdallah Sima,24,Attack,Left Winger,Brighton,Lens,Lens,2025-08-29,4500000.0,eligible,1233.5,7,2,0.657,32,740.0,2,2,0.257,0.487,0.599,-0.112,-0.516,Ambiguous,Failure,Failure
+785353,444254,Pablo Ibáñez,26,Midfield,Central Midfield,CA Osasuna,Alavés,Deportivo Alaves,2025-07-01,0.0,eligible,1303.0,1,1,0.138,38,2185.0,1,1,0.639,0.082,0.182,-0.1,-0.712,Ambiguous,Failure,Failure
+805714,434077,Renato Veiga,22,Defender,Centre-Back,Chelsea,Villarreal,Villarreal,2025-08-22,24500000.0,eligible,1294.4,0,1,0.07,37,2491.4,0,0,0.748,0.0,0.091,-0.091,-0.825,Ambiguous,Failure,Failure
+823231,422183,Dango Ouattara,23,Attack,Right Winger,Bournemouth,Brentford,Brentford,2025-08-16,42800000.0,eligible,2000.8,7,4,0.495,38,2239.3,7,3,0.655,0.402,0.51,-0.109,-0.498,Ambiguous,Ambiguous,Failure
+830890,404952,Marvin Senaya,24,Defender,Right-Back,R. Strasbourg,AJ Auxerre,Auxerre,2025-07-01,1500000.0,excl_low_baseline_min(<450),263.3,0,0,0.0,34,1767.9,1,0,0.578,0.051,,,,,,
+848509,408580,Jackson Tchatchoua,23,Defender,Right-Back,Hellas Verona,Wolves,Wolves,2025-08-19,12500000.0,eligible,3158.3,2,3,0.142,37,1870.6,0,1,0.562,0.048,0.129,-0.081,-0.733,Ambiguous,Failure,Failure
+901019,486734,Neil El Aynaoui,24,Midfield,Central Midfield,Lens,Roma,Roma,2025-07-20,23500000.0,eligible,1603.7,8,1,0.505,38,1028.5,1,2,0.301,0.263,0.4,-0.137,-0.979,Ambiguous,Failure,Failure
+904662,431302,Louis Mouton,23,Midfield,Attacking Midfield,Saint-Étienne,Angers SCO,Angers,2025-07-01,0.0,eligible,1046.8,0,1,0.086,34,1852.4,2,1,0.605,0.146,0.175,-0.029,-0.208,Success,Ambiguous,Ambiguous
+937941,537713,Thierno Barry,22,Attack,Centre-Forward,Villarreal,Everton,Everton,2025-07-09,30000000.0,eligible,2316.2,11,4,0.583,38,1911.5,8,0,0.559,0.377,0.564,-0.188,-0.861,Ambiguous,Failure,Failure
+953901,448936,Santiago Mouriño,23,Defender,Right-Back,Atlético,Villarreal,Villarreal,2025-08-01,10000000.0,eligible,1852.8,0,1,0.049,38,2355.4,1,2,0.689,0.115,0.077,0.037,0.337,Success,Success,Success
+992686,454749,Martial Godo,22,Attack,Left Winger,Fulham,R. Strasbourg,Strasbourg,2025-09-01,7000000.0,excl_low_baseline_min(<450),35.1,0,0,0.0,31,1598.4,10,1,0.573,0.619,,,,,,
+1064871,458728,Joaquín Panichelli,22,Attack,Centre-Forward,Alavés,R. Strasbourg,Strasbourg,2025-07-27,17000000.0,excl_low_baseline_min(<450),0.0,0,0,,34,2187.0,16,1,0.715,0.7,,,,,,
