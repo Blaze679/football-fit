@@ -18,26 +18,28 @@ The backtest is **exploratory**: about a hundred outfield transfers, several ver
 compared on the same cohort, and the weights are modelling choices. See the app's *Backtest* and *Method & Limitations* pages for
 the numbers with confidence intervals.
 
+## Quick start
+```bash
+python -m venv .venv
+.venv\Scripts\activate          # Windows (on macOS/Linux: source .venv/bin/activate)
+pip install -r requirements.txt
+streamlit run src/app/app.py
+```
+Open http://localhost:8501 and start on the Overview page.
+
 ## Data
 | Source | Used for | How obtained |
 |---|---|---|
 | WhoScored match events, 2024-25 and 2025-26, five leagues (3,504 matches) | style features, minutes, goals and assists | scraped with the `soccerdata` library |
 | Transfermarkt public tables ([dcaribou/transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets)) | transfers, positions, ages, club info | downloaded |
 
-**The data is not included in this repository.** The event data was scraped from a third-party site and the Transfermarkt tables
-have their own licence, so please check each source's terms before collecting or sharing data. WhoScored can block or change
-without notice; the collection script is resumable and polite (random pauses).
+Six small derived tables are included in `data/processed/` so the app runs out of the box. They are built from third-party
+sources, so **this repository is private and shared with a few people: please do not redistribute these files.** The raw
+event files and the large processed tables are not included. WhoScored can block or change without notice; the collection
+script is resumable and polite (random pauses).
 
-## Run the app
-The app needs the processed tables in `data/processed/`, which you create with the pipeline below.
-```bash
-python -m venv .venv
-.venv\Scripts\activate          # Windows (use: source .venv/bin/activate on macOS/Linux)
-pip install -r requirements.txt
-streamlit run src/app/app.py
-```
-
-## Reproduce the pipeline (in this order)
+## Rebuild the data from scratch (optional)
+Only needed if you want to regenerate the tables. Run in this order:
 | Step | Script | Output |
 |---|---|---|
 | 1. Scrape events | `src/collect/collect_events.py --league "ENG-Premier League" --season 2025-2026` (repeat for 5 leagues × 2 seasons) | `data/raw/events/...` |
@@ -50,7 +52,6 @@ streamlit run src/app/app.py
 | 8. Outcome labels | `build_labels.py` | transfer labels |
 | 9. Style features | `build_features.py` | club and player style features |
 | 10. Fit score and backtest | `fit_v3.py` | backtest results, style space, scalers |
-| 11. App | `streamlit run src/app/app.py` | |
 
 ## Limitations
 - Small cohort; results have wide uncertainty and are not confirmed on separate data.
