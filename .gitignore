@@ -7,5 +7,12 @@ __pycache__/
 *.log
 Thumbs.db
 data/raw/
-data/processed/
+data/processed/*
 .streamlit/secrets.toml
+!data/processed/club_ui_metadata.parquet
+!data/processed/player_ui_metadata.parquet
+!data/processed/player_role_vectors_2425.parquet
+!data/processed/player_style_space_2425.parquet
+!data/processed/backtest_results_v3.parquet
+!data/processed/fit_scalers_2425.npz
+downloaded_files/
